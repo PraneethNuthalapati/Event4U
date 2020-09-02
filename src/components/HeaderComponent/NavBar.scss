@@ -1,0 +1,5 @@
+.container-fluid { padding: 0; display: inline-block;}
+
+@media (min-width:500px){
+    .container-fluid { padding: 0; }
+}
